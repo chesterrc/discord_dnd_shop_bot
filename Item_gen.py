@@ -2,7 +2,6 @@ import random
 import item_library
 
 def Common_Item_Gen():
-    print('it went through to the common items!')
     Common = [] 
     #Reading Item and Money in library
     count = 0 
